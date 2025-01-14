@@ -1,0 +1,4 @@
+geojson==3.2.0
+pandas==2.2.3
+pyproj==3.7.0
+streamlit==1.41.1
